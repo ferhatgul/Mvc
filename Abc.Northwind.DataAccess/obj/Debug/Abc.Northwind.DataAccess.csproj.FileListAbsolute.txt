@@ -1,0 +1,14 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Northwind.DataAccess.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Northwind.DataAccess.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Core.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Northwind.Entities.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Core.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Northwind.Entities.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\Abc.Northwind.DataAccess.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\Abc.Northwind.DataAccess.dll.config
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml

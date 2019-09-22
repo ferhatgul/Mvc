@@ -1,0 +1,13 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Business.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Business.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Core.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.DataAccess.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Entities.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\EntityFramework.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Core.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.DataAccess.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\Abc.Northwind.Entities.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\bin\Debug\EntityFramework.xml
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Business\obj\Debug\Abc.Northwind.Business.pdb

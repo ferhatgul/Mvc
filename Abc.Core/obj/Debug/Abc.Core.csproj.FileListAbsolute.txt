@@ -1,0 +1,10 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\bin\Debug\Abc.Core.dll.config
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\bin\Debug\Abc.Core.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\bin\Debug\Abc.Core.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\bin\Debug\EntityFramework.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\bin\Debug\EntityFramework.xml
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\obj\Debug\Abc.Core.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\obj\Debug\Abc.Core.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Core\obj\Debug\Abc.Core.csprojResolveAssemblyReference.cache

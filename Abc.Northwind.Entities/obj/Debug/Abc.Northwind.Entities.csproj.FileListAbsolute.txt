@@ -1,0 +1,9 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\bin\Debug\Abc.Northwind.Entities.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\bin\Debug\Abc.Northwind.Entities.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\bin\Debug\Abc.Core.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\bin\Debug\EntityFramework.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\bin\Debug\Abc.Core.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\bin\Debug\EntityFramework.xml
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\obj\Debug\Abc.Northwind.Entities.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\obj\Debug\Abc.Northwind.Entities.dll
+c:\users\ferhat\documents\visual studio 2015\Projects\Abc\Abc.Northwind.Entities\obj\Debug\Abc.Northwind.Entities.pdb
